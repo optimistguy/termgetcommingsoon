@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(to right, rgb(71, 118, 230), rgb(142, 84, 233));
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  text-align: center;
+  color: #eaeced;
+  font-size: 3.5vw;
+}
+h3{
+   color: #eaeced;
+   text-align: center;
+   font-size: 3vw;
+}
+#mc_embed_signup{
+  background-color: #eaeced;
+}
+@@media {} {
+
+}
